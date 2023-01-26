@@ -3,4 +3,21 @@ body{
     color: aliceblue;
     text-align: center;
 }
-h1{text-shadow: purple 1px 1px;}
+h1{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+    text-shadow: rgb(91, 0, 177) 1px 1px;
+}
+h2{
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+    text-shadow: rgb(91, 0, 177) 1px 1px;
+}
+h3{
+    font-size:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+    text-shadow: rgb(91, 0, 177) 1px 1px;
+}
